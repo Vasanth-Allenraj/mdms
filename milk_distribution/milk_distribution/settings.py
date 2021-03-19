@@ -26,7 +26,7 @@ SECRET_KEY = '$7l+!a+nh=3%52sza8b$ql27=d_=e^h&wf1p98qj1o7u8lfb6q'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['https://mdms1.herokuapp.com/']
 
 
 # Application definition
